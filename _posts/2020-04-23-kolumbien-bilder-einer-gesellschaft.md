@@ -55,3 +55,10 @@ Doch dazu sollte es niemals kommen. Der Bogotázo, der mindestens tausend weiter
 
 Der Exil-Bremer Thomas Schulz arbeitet im Hauptberuf als Gewerkschaftssekretär beim Deutschen Gewerkschaftsbund, ist ehrenamtlicher Regionalsprecher von Attac Saar sowie Gründer des Lateinamerika-Zirkels, außerdem Vorstandsmitglied im „Weltveränderer e.V.“ und stellvertretender Vorsitzender des „VESOMEKO“ (Verein zur Förderung der sozialen Medienkompetenz . Früher war er hauptberuflich als freier Journalist und Pressefotograf in Kolumbien tätig, u.a. für die größte kolumbianische Tageszeitung „El Tiempo“, für „Deporte Gráfico“ und das Wirtschaftsblatt „Portafolio“. In der Ausstellung sind Bilder eines friedlichen, farbenfrohen Kolumbiens ohne Gewalt zu sehen.
 
+72-Stunden-Ausstellung (in Erinnerung an den „Bogotázo“ vor 72 Jahren , am 9. April 1948)
+Farbfotografien auf Leinwand von Thomas Schulz
+
+Eröffnung: Donnerstag, 23. April 2020 um 20 Uhr. Abschlusstrunk am Sonntag, 26. April 2020, von 18 bis 20 Uhr.
+Ort: ARRIVAL ROOM, Großherzog-Friedrich-Str. 95, 66111 Saarbrücken
+
+Eine Pop-Up-Ausstellung (Dauer: 72 Stunden) im „Arrival Room“ mit Unterstützung durch „LatinoLandia“ und „VESOMEKO“ (Verein zur Förderung der sozialen Medienkompetenz).
