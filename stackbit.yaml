@@ -120,7 +120,7 @@ models:
       - type: image
         name: favicon
         label: Favicon
-        description: Ein quadratisches Icoen, das Deine Webseite repräsentiert
+        description: Ein quadratisches Icon, das Deine Webseite repräsentiert
       - type: enum
         name: palette
         label: Farb-Palette
