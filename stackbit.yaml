@@ -104,26 +104,27 @@ sourceMapping:
 models:
   config:
     type: data
-    label: Seiten-Konfiguration
+    label: Site Configuration
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Seitentitel
+        label: Title
+        description: Site title
         required: true
       - type: string
         name: domain
         label: Domain
         description: >-
-          Die Internetadresse der Webseite, einschließlich des verwendeten Protokolls, z.B. https://meineseite.de/
+          The domain of your site, including the protocol, e.g.
+          https://mysite.com/
       - type: image
         name: favicon
         label: Favicon
-        description: Ein quadratisches Icoen, das Deine Webseite repräsentiert
+        description: A square icon that represents your website
       - type: enum
         name: palette
-        label: Farb-Palette
-        description: Die Farbpalette der Vorlage
+        label: Color Palette
+        description: The color palette of the theme
         options:
           - yellow
           - blue
@@ -133,80 +134,81 @@ models:
         required: true
       - type: model
         name: header
-        label: Header-Konfiguration
+        label: Header Configuration
         models:
           - header
       - type: model
         name: footer
-        label: Footer-Konfiguration
+        label: Footer Configuration
         models:
           - footer
     file: config.json
   header:
     type: object
-    label: Header-Konfiguration
+    label: Header Configuration
     labelField: title
     fields:
       - type: string
         name: title
-        label: Header-Titel
+        label: Header Title
         description: >-
-          Der Titel auf der linken Seite, wenn kein Logo ausgewählt ist. Ist auch kein Titel angeben, wird der Name des Autors angezeigt.
+          The title displayed on the left side if no logo image added. If value
+          is not set, the author name will be used.
       - type: string
         name: tagline
-        label: Header-Tagline
-        description: Die Tagline auf der linken Seite
+        label: Header Tagline
+        description: The tagline displayed on the left side
       - type: image
         name: logo_img
         label: Logo
-        description: Das Logo auf der linken Seite
+        description: The logo image displayed on the left side
       - type: string
         name: logo_img_alt
         label: Logo Alt Text
-        description: Der Alternativtext des Logo-Bilds
+        description: The alt text of the logo image
       - type: image
         name: background_img
-        label: Hintergrundbild
-        description: Das Bild, das im Hintergrund auf der linken Seite angezeigt wird.
+        label: Background Image
+        description: The image displayed in the background of the left side
       - type: boolean
         name: has_nav
-        label: Navigations-Menü aktivieren
-        description: Das Navigationsmenü auf der linken Seite anzeigen
+        label: Enable Navigation Menu
+        description: Display the navigation menu bar on the left side
         default: true
       - type: list
         name: nav_links
-        label: Navigations-Links
-        description: Liste von Navigationslinks
+        label: Navigation Links
+        description: List of navigation links
         items:
           type: model
           models:
             - action
       - type: boolean
         name: has_social
-        label: Social Links aktivieren
-        description: Social Links auf der linken Seite anzeigen
+        label: Enable Social Links
+        description: Display social links on the left side
         default: true
       - type: list
         name: social_links
         label: Social Links
-        description: Liste von Social Links
+        description: List of social links
         items:
           type: model
           models:
             - action
   footer:
     type: object
-    label: Footer-Konfiguration
+    label: Footer Configuration
     labelField: content
     fields:
       - type: string
         name: content
-        label: Footer-Inhalt
-        description: Der Copyrighttext im Footer
+        label: Footer Content
+        description: The copyright text displayed in the footer
       - type: list
         name: links
         label: Links
-        description: List von Links im Footer
+        description: List of links in the footer
         items:
           type: model
           models:
@@ -214,7 +216,7 @@ models:
   home:
     type: page
     urlPath: /
-    label: Start
+    label: Home
     layout: home
     file: index.md
     hideContent: true
@@ -222,17 +224,17 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Titel der Seite
+        label: Title
+        description: The title of the page
         required: true
       - type: boolean
         name: has_more_link
-        label: Link Weiterlesen anzeigen
-        description: Den Weiterlesen-Link im Beitragsfeed anzeigen
+        label: Show keep reading link
+        description: Display the keep reading link in the post feed
         default: true
       - type: string
         name: more_link_text
-        label: Label des Weiterlesen-Links
+        label: Keep reading link label
       - type: model
         name: seo
         models:
@@ -240,45 +242,47 @@ models:
   contact:
     type: page
     urlPath: /contact
-    label: Kontakt
+    label: Contact
     layout: contact
     file: contact.md
     singleInstance: true
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Titel der Seite
+        label: Title
+        description: The title of the page
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Der Text direkt unterhalb des Seitentitels
+        label: Subtitle
+        description: The text shown just below the page title
       - type: image
         name: img_path
-        label: Hintergrundbild
+        label: Background Image
         description: >-
-          Das Hintergrundbild auf der linken Seite. Ohne Bild wird das Standardbild der Header-Konfiguration angezeigt.
+          The background image of the left side. If no image added, the default
+          image specified in Header Configuration is displayed.
       - type: string
         name: form_id
-        label: Form-ID
-        description: 'Einzigartige Formular-ID, darf keine Leerzeichen enthalten'
+        label: Form ID
+        description: 'A unique identifier of the form, must not contain whitespace'
         required: true
       - type: string
         name: form_action
-        label: Formular-Aktion
+        label: Form Action
         description: >-
-          Pfad zur "Erfolgsseite", falls die Standard-Erfolgsmeldung geändert werden soll
+          The path of your custom "success" page, if you want to replace the
+          default success message
       - type: list
         name: form_fields
-        label: Formular-Felder
+        label: Form Fields
         items:
           type: model
           models:
             - form_field
       - type: string
         name: submit_label
-        label: Label für den Versende-Button
+        label: Submit Button Label
         required: true
       - type: model
         name: seo
@@ -286,24 +290,25 @@ models:
           - stackbit_page_meta
   page:
     type: page
-    label: Seite
+    label: Page
     layout: page
     exclude: _posts/**
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Titel der Seite
+        label: Title
+        description: The title of the page
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Der Text direkt unterhalb des Seitentitels
+        label: Subtitle
+        description: The text shown just below the page title
       - type: image
         name: img_path
-        label: Hintergrundbild
+        label: Background Image
         description: >-
-          Das Hintergrundbild auf der linken Seite. Ohne Bild wird das Standardbild der Header-Konfiguration gezeigt.
+          The background image of the left side. If no image added, the default
+          image specified in Header Configuration is displayed.
       - type: model
         name: seo
         models:
@@ -311,44 +316,46 @@ models:
   post:
     type: page
     urlPath: '/posts/{slug}'
-    label: Beitrag
+    label: Post
     layout: post
     folder: _posts
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Titel des Beitrags
+        label: Title
+        description: The title of the post
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Der Text direkt unterhalb des Beitragstitels
+        label: Subtitle
+        description: The text shown just below the post title
       - type: date
         name: date
-        label: Datum
+        label: Date
         required: true
       - type: image
         name: thumb_img_path
-        label: Bild (Blog-Feed)
-        description: Das Bild, das im Blog-Feed angezeigt werden soll
+        label: Image (Blog Feed)
+        description: The image shown in the blog feed
       - type: string
         name: thumb_img_alt
-        label: Alt-Text (Blog-Feed)
-        description: Alternativtext des Blogfeed-Bilds für Screenreader
+        label: Image Alt Text (Blog Feed)
+        description: The alt text of the blog feed image
       - type: image
         name: content_img_path
-        label: Hintergrundbild (einzelner Beitrag)
+        label: Background Image (Single Post)
         description: >-
-          Das Hintergrundbild auf der linken Seite eines Einzelbeitrags. Ohne Bild wird das Standardbild der Header-Konfiguration gezeigt.          
+          The background image of the left side in the single post. If no image
+          added, the default image specified in Header Configuration is
+          displayed.
       - type: string
         name: excerpt
-        label: Auszug
-        description: Die Zusammenfassung des Einzelbeitrags im Blog-Feed
+        label: Excerpt
+        description: The excerpt of the post displayed in the blog feed
       - type: boolean
         name: hide_header
-        label: Navigationsmenü verstecken
-        description: In einem Einzelbeitrag die linke Spalte verbergen.
+        label: Hide sidebar
+        description: Hide the left side in the single post
         default: false
       - type: model
         name: seo
@@ -356,7 +363,7 @@ models:
           - stackbit_page_meta
   action:
     type: object
-    label: Aktion
+    label: Action
     labelField: label
     fields:
       - type: string
@@ -370,7 +377,7 @@ models:
         default: '#'
       - type: enum
         name: style
-        label: Stil
+        label: Style
         options:
           - link
           - icon
@@ -392,21 +399,21 @@ models:
           - youtube
       - type: boolean
         name: new_window
-        label: In neuem Tab/Fenster öffnen
+        label: Open in new tab/window
         default: false
       - type: boolean
         name: no_follow
         label: No follow
         default: false
-        description: rel="nofollow"-Attribut zum Link hinzufügen
+        description: Add rel="nofollow" attribute to the link
   form_field:
     type: object
-    label: Formular-Feld
+    label: Form Field
     labelField: name
     fields:
       - type: enum
         name: input_type
-        label: Typ
+        label: Type
         options:
           - text
           - email
@@ -415,46 +422,47 @@ models:
           - checkbox
           - textarea
           - select
-        description: Art des Formularfelds
+        description: Type of the form field
         required: true
       - type: string
         name: name
         label: Name
-        description: 'Der Name des Felds, übertragen mit dem Formular'
+        description: 'The name of the field, submitted with the form'
         required: true
       - type: string
         name: label
         label: Label
-        description: 'Der Titel des Felds, angezeigt über dem Eingabefeld'
+        description: 'The caption of the field, shown above the field input'
       - type: string
         name: default_value
         description: >-
-          Der Platzhalter für Feldtypen oder Standard-Optionen für Auswahlfelder
+          The placeholder for textual field types or default option for select
+          field
       - type: list
         name: options
-        description: Liste von Optionen für Auswahlfeld
+        description: The list of options for select field
       - type: boolean
         name: is_required
-        label: Ist das Feld erforderlich?
+        label: Is the field required?
         default: false
   stackbit_page_meta:
     type: object
-    label: Seiten-Metadaten
+    label: Page meta data
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Der Seitentitel im <title> Tag
+        label: Title
+        description: The page title that goes into the <title> tag
         default: ''
       - type: string
         name: description
-        label: Beschreibung
-        description: Die Seiten-Beschreibung für den <meta name="description"> Tag
+        label: Description
+        description: The page description that goes into the <meta name="description"> tag
         default: ''
       - type: list
         name: robots
         label: Robots
-        description: Die Einträge für den <meta name="robots"> Tag
+        description: The items that go into the <meta name="robots"> tag
         items:
           type: enum
           options:
@@ -470,8 +478,8 @@ models:
         name: extra
         label: Extra
         description: >-
-          Zusätzliche Definition für besondere Metatags wie Open-Graph,
-          Twitter, usw.
+          Additional definition for specific meta tags such as open-graph,
+          twitter, etc.
         items:
           type: object
           labelField: name
