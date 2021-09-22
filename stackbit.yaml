@@ -430,8 +430,7 @@ models:
       - type: string
         name: default_value
         description: >-
-          Der Platzhalter für Feldtypener for textual field types or default option for select
-          field
+          Der Platzhalter für Feldtypen oder Standard-Optionen für Auswahlfelder
       - type: list
         name: options
         description: The list of options for select field
