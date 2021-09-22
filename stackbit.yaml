@@ -426,7 +426,7 @@ models:
       - type: string
         name: label
         label: Label
-        description: 'The caption of the field, shown above the field input'
+        description: 'Der Titel des Felds, shown above the field input'
       - type: string
         name: default_value
         description: >-
