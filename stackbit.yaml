@@ -269,7 +269,7 @@ models:
         name: form_action
         label: Formular-Aktion
         description: >-
-          Pfad zur "Erfolgs"-The path of your custom "success" page, if you want to replace the
+          Pfad zur "Erfolgsseite", if you want to replace the
           default success message
       - type: list
         name: form_fields
