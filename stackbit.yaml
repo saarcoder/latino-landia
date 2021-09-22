@@ -336,7 +336,7 @@ models:
       - type: string
         name: thumb_img_alt
         label: Alt-Text (Blog-Feed)
-        description: Alt-Text des Blog-Feed-Bilds
+        description: Alt-Text des Blogfeed-Bilds
       - type: image
         name: content_img_path
         label: Background Image (Single Post)
