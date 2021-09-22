@@ -327,7 +327,7 @@ models:
         description: Der Text direkt unterhalb des Beitragstitels
       - type: date
         name: date
-        label: Date
+        label: Datum
         required: true
       - type: image
         name: thumb_img_path
