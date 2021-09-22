@@ -124,7 +124,7 @@ models:
       - type: enum
         name: palette
         label: Farb-Palette
-        description: The color palette of the theme
+        description: Die Farbpalette der Vorlage
         options:
           - yellow
           - blue
