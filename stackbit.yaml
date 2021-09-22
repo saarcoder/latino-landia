@@ -259,8 +259,7 @@ models:
         name: img_path
         label: Hintergrundbild
         description: >-
-          Das Hintergrundbild auf der linken Seite. If no image added, the default
-          image specified in Header Configuration is displayed.
+          Das Hintergrundbild auf der linken Seite. Ohne Bild wird das Standardbild der Header-Konfiguration angezeigt.
       - type: string
         name: form_id
         label: Form ID
