@@ -302,7 +302,7 @@ models:
         description: Der Text direkt unterhalb des Seitentitels
       - type: image
         name: img_path
-        label: Hintergrundbild Image
+        label: Hintergrundbild
         description: >-
           The background image of the left side. If no image added, the default
           image specified in Header Configuration is displayed.
