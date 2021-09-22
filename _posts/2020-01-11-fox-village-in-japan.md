@@ -20,7 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        
+        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist.
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
