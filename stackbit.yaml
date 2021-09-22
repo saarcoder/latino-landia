@@ -113,7 +113,7 @@ models:
         required: true
       - type: string
         name: domain
-        label: Domain
+        label: Internet-Adresse
         description: >-
           Die Internetadresse der Webseite, einschließlich des verwendeten Protokolls, z.B. https://meineseite.de/
       - type: image
