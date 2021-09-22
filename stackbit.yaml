@@ -272,7 +272,7 @@ models:
           Pfad zur "Erfolgsseite", falls die Standard-Erfolgsmeldung geändert werden soll
       - type: list
         name: form_fields
-        label: Form Fields
+        label: Formular-Felder
         items:
           type: model
           models:
