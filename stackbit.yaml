@@ -139,7 +139,7 @@ models:
           - header
       - type: model
         name: footer
-        label: Footer-Konfiguration
+        label: Konfiguration Fußzeile
         models:
           - footer
     file: config.json
