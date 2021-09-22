@@ -172,7 +172,8 @@ models:
       - type: boolean
         name: has_nav
         label: Navigations-Menü aktivieren
-        description: Die Navigationsmenü auf der linken Seite anzeigen        default: true
+        description: Die Navigationsmenü auf der linken Seite anzeigen
+        default: true
       - type: list
         name: nav_links
         label: Navigation Links
