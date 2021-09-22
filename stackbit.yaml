@@ -134,7 +134,7 @@ models:
         required: true
       - type: model
         name: header
-        label: Konfiguration
+        label: Konfiguration Seiten-Menü
         models:
           - header
       - type: model
