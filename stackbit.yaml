@@ -471,7 +471,7 @@ models:
         name: extra
         label: Extra
         description: >-
-          Zusätzliche Definition Additional definition for specific meta tags such as open-graph,
+          Zusätzliche Definition für besondere Metatags wie open-graph,
           twitter, etc.
         items:
           type: object
