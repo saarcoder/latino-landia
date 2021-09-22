@@ -249,8 +249,8 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the page
+        label: Titel
+        description: The Titel of the page
         required: true
       - type: string
         name: subtitle
