@@ -104,7 +104,7 @@ sourceMapping:
 models:
   config:
     type: data
-    label: Site Configuration
+    label: Seiten-Konfiguration
     fields:
       - type: string
         name: title
@@ -279,7 +279,7 @@ models:
             - form_field
       - type: string
         name: submit_label
-        label: Abschicken-Buttonlabel
+        label: Label für den Versende-Button
         required: true
       - type: model
         name: seo
@@ -319,7 +319,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: The title of the post
+        description: Der Titel des Beitrags
         required: true
       - type: string
         name: subtitle
@@ -336,7 +336,7 @@ models:
       - type: string
         name: thumb_img_alt
         label: Alt-Text (Blog-Feed)
-        description: Alt-Text des Blogfeed-Bilds
+        description: Alternativtext des Blogfeed-Bilds für Screenreader
       - type: image
         name: content_img_path
         label: Hintergrundbild (einzelner Beitrag)
@@ -416,7 +416,7 @@ models:
           - checkbox
           - textarea
           - select
-        description: Type of the form field
+        description: Art des Formularfelds
         required: true
       - type: string
         name: name
