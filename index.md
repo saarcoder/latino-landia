@@ -3,7 +3,7 @@ title: Start
 has_more_link: true
 more_link_text: Weiterlesen
 seo:
-  title: Stackbit Fjord Theme
+  title: LatinoLandia
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'
