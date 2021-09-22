@@ -348,7 +348,7 @@ models:
         description: Die Zusammenfassung des Einzelbeitrags im Blog-Feed
       - type: boolean
         name: hide_header
-        label: Hide sidebar
+        label: Navigationsmenü verstecken
         description: Hide the left side in the single post
         default: false
       - type: model
