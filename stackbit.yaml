@@ -294,7 +294,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: The Titel of the page
+        description: Der Titel der Seite
         required: true
       - type: string
         name: subtitle
