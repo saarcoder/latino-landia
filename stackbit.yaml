@@ -171,7 +171,7 @@ models:
         description: Das Bild, das im Hintergrund auf der linken Seite angezeigt wird.
       - type: boolean
         name: has_nav
-        label: Navigations-Men
+        label: Navigations-Menü aktivieren
         description: Display the navigation menu bar on the left side
         default: true
       - type: list
