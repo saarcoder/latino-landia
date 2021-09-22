@@ -421,7 +421,7 @@ models:
       - type: string
         name: name
         label: Name
-        description: 'Der Name des Felds,  with the form'
+        description: 'Der Name des Felds, übertragen mit dem Formular'
         required: true
       - type: string
         name: label
