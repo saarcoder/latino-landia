@@ -190,7 +190,7 @@ models:
       - type: list
         name: social_links
         label: Social Links
-        description: List of social links
+        description: Liste von Social links
         items:
           type: model
           models:
