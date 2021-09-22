@@ -257,7 +257,7 @@ models:
         description: Der Text direkt unter dem Seitentitel
       - type: image
         name: img_path
-        label: Background Image
+        label: Hintergrundbild
         description: >-
           The background image of the left side. If no image added, the default
           image specified in Header Configuration is displayed.
