@@ -38,6 +38,7 @@ seo:
 layout: post
 content_img_path: images/00730008_small_cpr.jpeg
 ---
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik- und Atlantik) – und wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
 
 Am 9. April 1948 kam die Gewalt nach Kolumbien. Seitdem hat sie das Land nicht mehr verlassen. Es war der Tag, an dem der berüchtigte „Bogotázo“ begann. Im Mittagstrubel der Carrera Septima, Hauptverkehrsstraße der Halbmillionen-Stadt Bogotá, fielen vier Schüsse.  Drei dieser vier Schüsse trafen Jorge Eliecer Gaitán, den jéfe único der Liberalen Partei, auf dem Höhepunkt seiner Popularität und der aussichtsreichste Kandidat für die Präsidentschaftswahlen im Jahr 1950. Mit ihm wäre Kolumbien ein modernes Land voller Frieden geworden, so der unwiderlegbare Mythos. Gaitan hätte die Oligarchen bekämpft, ihre Macht eingeschränkt, einen Ausgleich zwischen den Klassen hergestellt, die sozioökonomischen Bedingungen der einfachen Menschen verbessert und aus Kolumbien eine lebenswerte Demokratie gemacht.
