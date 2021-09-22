@@ -262,7 +262,7 @@ models:
           Das Hintergrundbild auf der linken Seite. Ohne Bild wird das Standardbild der Header-Konfiguration angezeigt.
       - type: string
         name: form_id
-        label: Form ID
+        label: Form-ID
         description: 'A unique identifier of the form, must not contain whitespace'
         required: true
       - type: string
