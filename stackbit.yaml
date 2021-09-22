@@ -349,7 +349,7 @@ models:
       - type: boolean
         name: hide_header
         label: Navigationsmenü verstecken
-        description: Hide the left side in the single post
+        description: In einem Einzelbeitrag die linke Spalte verbergen.
         default: false
       - type: model
         name: seo
