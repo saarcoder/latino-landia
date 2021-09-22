@@ -42,7 +42,7 @@ seo:
         weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie
         Deutschland ist.
     - name: 'twitter:image'
-      value: images/10.jpg
+      value: images/DSCF2492_small_cpr.jpg
       relativeUrl: true
 layout: post
 content_img_path: images/ausschnitt_neu-gesetzt_cpr.png
