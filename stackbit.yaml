@@ -241,7 +241,7 @@ models:
   contact:
     type: page
     urlPath: /contact
-    label: Contact
+    label: Kontakt
     layout: contact
     file: contact.md
     singleInstance: true
