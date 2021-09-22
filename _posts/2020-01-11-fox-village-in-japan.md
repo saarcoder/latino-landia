@@ -11,7 +11,7 @@ date: '2020-01-11'
 thumb_img_path: images/DSCF2492_small_cpr.jpeg
 thumb_img_alt: A red fox sitting on a meadow
 seo:
-  title: Fox Village In Japan
+  title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
   description: >-
     Apparently, Japan is covered in magical and irresistibly cute animal
     sanctuaries.
