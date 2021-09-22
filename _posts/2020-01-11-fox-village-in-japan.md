@@ -32,8 +32,7 @@ seo:
       value: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
     - name: 'twitter:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist.
     - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
