@@ -152,8 +152,7 @@ models:
         name: title
         label: Header-Titel
         description: >-
-          Der Titel auf der linken Seite, wenn kein Logo ausgewählt ist. If value
-          is not set, the author name will be used.
+          Der Titel auf der linken Seite, wenn kein Logo ausgewählt ist. Ist auch kein Titel angeben, wird der Name des Autors angezeigt.
       - type: string
         name: tagline
         label: Header Tagline
