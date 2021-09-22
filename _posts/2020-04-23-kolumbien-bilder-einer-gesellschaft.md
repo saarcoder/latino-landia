@@ -62,7 +62,7 @@ Farbfotografien auf Leinwand von Thomas Schulz
 
 **Eröffnung**: Donnerstag, 23. April 2020 um 20 Uhr. Abschlusstrunk am Sonntag, 26. April 2020, von 18 bis 20 Uhr.
 
-**Ort: ARRIVAL ROOM, Großherzog-Friedrich-Str. 95, 66111 Saarbrücken
+**Ort**: ARRIVAL ROOM, Großherzog-Friedrich-Str. 95, 66111 Saarbrücken
 
 Eine Pop-Up-Ausstellung (Dauer: 72 Stunden) im „Arrival Room“ mit Unterstützung durch „LatinoLandia“ und „VESOMEKO“ (Verein zur Förderung der sozialen Medienkompetenz).
 
