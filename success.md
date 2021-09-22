@@ -3,6 +3,6 @@ title: Thank You!
 layout: page
 ---
 
-Vielen Dank für Ihre Nachricht! Ich werde mch ill get back in touch with you soon.
+Vielen Dank für Ihre Nachricht! Ich werde mich bald bei Ihnen melden.
 
 **Have a great day!**
