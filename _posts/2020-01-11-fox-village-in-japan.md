@@ -9,7 +9,7 @@ excerpt: >-
   wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
 date: '2020-01-11'
 thumb_img_path: images/DSCF2492_small_cpr.jpg
-thumb_img_alt: A red fox sitting on a meadow
+thumb_img_alt: Mäd
 seo:
   title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
   description: >-
