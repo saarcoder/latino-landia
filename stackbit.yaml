@@ -430,7 +430,7 @@ models:
       - type: string
         name: default_value
         description: >-
-          Der Platzhalter fürThe placeholder for textual field types or default option for select
+          Der Platzhalter für Feldtypener for textual field types or default option for select
           field
       - type: list
         name: options
