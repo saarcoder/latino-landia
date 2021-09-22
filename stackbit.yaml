@@ -185,7 +185,7 @@ models:
       - type: boolean
         name: has_social
         label: Social Links aktivieren
-        description: Social Links on the left side
+        description: Social Links auf der linken Seite anzeigen
         default: true
       - type: list
         name: social_links
