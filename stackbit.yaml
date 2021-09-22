@@ -399,7 +399,7 @@ models:
         name: no_follow
         label: No follow
         default: false
-        description: Add rel="nofollow" attribute to the link
+        description: rel="nofollow" attribute to the link
   form_field:
     type: object
     label: Form Field
