@@ -145,7 +145,7 @@ models:
     file: config.json
   header:
     type: object
-    label: Header-Konfiguration
+    label: Konfiguration Seiten-Menüspalte
     labelField: title
     fields:
       - type: string
