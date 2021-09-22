@@ -168,7 +168,7 @@ models:
       - type: image
         name: background_img
         label: Hintergrundbild
-        description: The image displayed in the background of the left side
+        description: Das Bild, das im Hintergrund auf der linken Seite angezeigt wird.
       - type: boolean
         name: has_nav
         label: Enable Navigation Menu
