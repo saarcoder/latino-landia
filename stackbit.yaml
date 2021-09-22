@@ -304,7 +304,7 @@ models:
         name: img_path
         label: Hintergrundbild
         description: >-
-          The background image of the left side. If no image added, the default
+          Das Hintergrundbild background image of the left side. If no image added, the default
           image specified in Header Configuration is displayed.
       - type: model
         name: seo
