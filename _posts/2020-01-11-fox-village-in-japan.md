@@ -2,8 +2,7 @@
 title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
 subtitle: Colombia – imágenes de una sociedad sin violencia
 excerpt: >-
-  Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. Kolumbien verfügt über verschiedene Klimazonen, zwei
-        Inseln in der Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik-
+  Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik-
         und Atlantik) – und wäre da nicht die allgegenwärtige Gewalt – dieses
         Land wäre ein Paradies.
 date: '2020-01-11'
