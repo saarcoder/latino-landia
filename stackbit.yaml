@@ -233,7 +233,7 @@ models:
         default: true
       - type: string
         name: more_link_text
-        label: Keep reading link label
+        label: Weiterlesen-Link
       - type: model
         name: seo
         models:
