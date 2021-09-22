@@ -29,7 +29,7 @@ seo:
         Deutschland ist.
       keyName: property
     - name: 'og:image'
-      value: images/10.jpg
+      value: images/DSCF2492_small_cpr.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
