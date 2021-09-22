@@ -341,8 +341,7 @@ models:
         name: content_img_path
         label: Hintergrundbild (einzelner Beitrag)
         description: >-
-          Das Hintergrundbild auf der linken Seite eines Einzelbeitrags. If no image
-          added, the default image specified in Header Configuration is
+          Das Hintergrundbild auf der linken Seite eines Einzelbeitrags. 
           displayed.
       - type: string
         name: excerpt
