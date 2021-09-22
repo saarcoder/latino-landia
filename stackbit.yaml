@@ -269,8 +269,7 @@ models:
         name: form_action
         label: Formular-Aktion
         description: >-
-          Pfad zur "Erfolgsseite", if you want to replace the
-          default success message
+          Pfad zur "Erfolgsseite", falls die Standard-Erfolgsmeld
       - type: list
         name: form_fields
         label: Form Fields
