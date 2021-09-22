@@ -63,7 +63,7 @@ Ort: ARRIVAL ROOM, Großherzog-Friedrich-Str. 95, 66111 Saarbrücken
 
 Eine Pop-Up-Ausstellung (Dauer: 72 Stunden) im „Arrival Room“ mit Unterstützung durch „LatinoLandia“ und „VESOMEKO“ (Verein zur Förderung der sozialen Medienkompetenz).
 
-> Rahmenprogramm:
+> Rahmenprogramm
 Persönliche Führungen mit dem Künstler.
 Salsa-Kurs am Freitagabend.
 Lesung: „Geschichten aus Kolumbien“.
