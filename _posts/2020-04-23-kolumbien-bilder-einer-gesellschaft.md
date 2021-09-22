@@ -60,7 +60,7 @@ Der Exil-Bremer Thomas Schulz arbeitet im Hauptberuf als Gewerkschaftssekretär 
 72-Stunden-Ausstellung (in Erinnerung an den „Bogotázo“ vor 72 Jahren , am 9. April 1948)
 Farbfotografien auf Leinwand von Thomas Schulz
 
-Eröffnung: Donnerstag, 23. April 2020 um 20 Uhr. Abschlusstrunk am Sonntag, 26. April 2020, von 18 bis 20 Uhr.
+**Eröffnung: Donnerstag, 23. April 2020 um 20 Uhr. Abschlusstrunk am Sonntag, 26. April 2020, von 18 bis 20 Uhr.
 
 Ort: ARRIVAL ROOM, Großherzog-Friedrich-Str. 95, 66111 Saarbrücken
 
