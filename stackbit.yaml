@@ -345,7 +345,7 @@ models:
       - type: string
         name: excerpt
         label: Auszug
-        description: Die Zusammenfassung des Beitrags im Blog-Feed
+        description: Die Zusammenfassung des Einzelbeitrags im Blog-Feed
       - type: boolean
         name: hide_header
         label: Hide sidebar
