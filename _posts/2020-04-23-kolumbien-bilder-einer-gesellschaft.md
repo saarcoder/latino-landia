@@ -7,7 +7,7 @@ excerpt: >-
   ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der
   Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik- und Atlantik) – und
   wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
-date: '2020-01-11'
+date: '202-01-11'
 thumb_img_path: images/DSCF2492_small_cpr.jpg
 thumb_img_alt: Mädchen mit buntem Kleid auf der Straße
 seo:
