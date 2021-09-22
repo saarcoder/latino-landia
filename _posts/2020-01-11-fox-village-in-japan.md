@@ -2,9 +2,13 @@
 title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
 subtitle: Colombia – imágenes de una sociedad sin violencia
 excerpt: >-
-  Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik- und Atlantik) – und wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
+  Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein
+  weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland
+  ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der
+  Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik- und Atlantik) – und
+  wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
 date: '2020-01-11'
-thumb_img_path: images/DSCF2492_small_cpr.jpeg
+thumb_img_path: images/DSCF2492_small_cpr.jpg
 thumb_img_alt: A red fox sitting on a meadow
 seo:
   title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
@@ -20,7 +24,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist.
+        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein
+        weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie
+        Deutschland ist.
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
@@ -32,7 +38,9 @@ seo:
       value: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
     - name: 'twitter:description'
       value: >-
-        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist.
+        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein
+        weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie
+        Deutschland ist.
     - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
