@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: LatinoLandia
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: Neues aus Lateinamerika
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
