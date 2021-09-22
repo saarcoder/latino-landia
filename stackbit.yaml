@@ -160,7 +160,7 @@ models:
       - type: image
         name: logo_img
         label: Logo
-        description: The logo image displayed on the left side
+        description: Das Logo auf der linken Seite
       - type: string
         name: logo_img_alt
         label: Logo Alt Text
