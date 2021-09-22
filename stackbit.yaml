@@ -172,7 +172,7 @@ models:
       - type: boolean
         name: has_nav
         label: Navigations-Menü aktivieren
-        description: Display the navigation menu bar on the left side
+        description: Die Navigation
         default: true
       - type: list
         name: nav_links
