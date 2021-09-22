@@ -207,7 +207,7 @@ models:
       - type: list
         name: links
         label: Links
-        description: List of links in the footer
+        description: List of links im Footer
         items:
           type: model
           models:
