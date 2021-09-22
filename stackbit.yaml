@@ -123,7 +123,7 @@ models:
         description: A square icon that represents your website
       - type: enum
         name: palette
-        label: Color Palette
+        label: ColFaor Palette
         description: The color palette of the theme
         options:
           - yellow
