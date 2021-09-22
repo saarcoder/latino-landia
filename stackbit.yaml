@@ -167,7 +167,7 @@ models:
         description: Der Alternativtext des Logobilds
       - type: image
         name: background_img
-        label: Background Image
+        label: Hintergrundbild
         description: The image displayed in the background of the left side
       - type: boolean
         name: has_nav
