@@ -304,7 +304,7 @@ models:
         name: img_path
         label: Hintergrundbild
         description: >-
-          Das Hintergrundbild auf der linken Seite. Ohne Bild wird das Standardbild  specified in Header Configuration is displayed.
+          Das Hintergrundbild auf der linken Seite. Ohne Bild wird das Standardbild der Header-Konfiguration .
       - type: model
         name: seo
         models:
