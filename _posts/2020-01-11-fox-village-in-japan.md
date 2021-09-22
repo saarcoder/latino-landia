@@ -25,8 +25,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik- und Atlantik) – und wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
