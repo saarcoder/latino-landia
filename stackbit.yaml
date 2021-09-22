@@ -109,18 +109,18 @@ models:
       - type: string
         name: title
         label: Titel
-        description: Site title
+        description: Seitentitel
         required: true
       - type: string
         name: domain
         label: Domain
         description: >-
-          The domain of your site, including the protocol, e.g.
-          https://mysite.com/
+          Die Internetadresse der Webseite, einschließlich des verwendeten Protokolls, z.B.
+          https://meineseite.de/
       - type: image
         name: favicon
         label: Favicon
-        description: A square icon that represents your website
+        description: Ein quadratisches Icoen, das Deine Webseite repräsentiert
       - type: enum
         name: palette
         label: Farb-Palette
@@ -164,7 +164,7 @@ models:
       - type: string
         name: logo_img_alt
         label: Logo Alt Text
-        description: Der Alternativtext des Logobilds
+        description: Der Alternativtext des Logo-Bilds
       - type: image
         name: background_img
         label: Hintergrundbild
@@ -202,7 +202,7 @@ models:
     fields:
       - type: string
         name: content
-        label: Footer-Content
+        label: Footer-Inhalt
         description: Der Copyrighttext im Footer
       - type: list
         name: links
@@ -215,7 +215,7 @@ models:
   home:
     type: page
     urlPath: /
-    label: Home
+    label: Start
     layout: home
     file: index.md
     hideContent: true
@@ -249,7 +249,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: The Titel of the page
+        description: Der Titel der Seite
         required: true
       - type: string
         name: subtitle
@@ -445,17 +445,17 @@ models:
       - type: string
         name: title
         label: Titel
-        description: Der Seitentitel im <title>-Tag
+        description: Der Seitentitel im <title> Tag
         default: ''
       - type: string
         name: description
         label: Beschreibung
-        description: Die Seiten-Beschreibung für den <meta name="description">-Tag
+        description: Die Seiten-Beschreibung für den <meta name="description"> Tag
         default: ''
       - type: list
         name: robots
         label: Robots
-        description: Die Einträge für den <meta name="robots">-Tag
+        description: Die Einträge für den <meta name="robots"> Tag
         items:
           type: enum
           options:
