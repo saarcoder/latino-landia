@@ -1,7 +1,6 @@
 ---
 title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
-subtitle: >-
-  Colombia – imágenes de una sociedad sin violencia
+subtitle: Colombia – imágenes de una sociedad sin violencia
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
@@ -9,7 +8,7 @@ excerpt: >-
   buildings see the use of tatami mats and sliding doors that break down the
   distinction between rooms and indoor and outdoor space.
 date: '2020-01-11'
-thumb_img_path: images/ausschnitt_neu-gesetzt_cpr.png
+thumb_img_path: images/DSCF2492_small_cpr.jpeg
 thumb_img_alt: A red fox sitting on a meadow
 seo:
   title: Fox Village In Japan
@@ -25,7 +24,12 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik- und Atlantik) – und wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
+        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein
+        weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie
+        Deutschland ist. Kolumbien verfügt über verschiedene Klimazonen, zwei
+        Inseln in der Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik-
+        und Atlantik) – und wäre da nicht die allgegenwärtige Gewalt – dieses
+        Land wäre ein Paradies.
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
