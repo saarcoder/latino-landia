@@ -433,7 +433,7 @@ models:
           Der Platzhalter für Feldtypen oder Standard-Optionen für Auswahlfelder
       - type: list
         name: options
-        description: The list of options for select field
+        description: The list of options for select field Liste von Optionen für Auswahlfeld
       - type: boolean
         name: is_required
         label: Is the field required?
