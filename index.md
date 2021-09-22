@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Weiterlesen
 seo:
   title: LatinoLandia
-  description: The preview of the Fjord theme
+  description: Neues aus Lateinamerika
   extra:
     - name: 'og:type'
       value: website
