@@ -263,7 +263,7 @@ models:
       - type: string
         name: form_id
         label: Form-ID
-        description: ' unique identifier of the form, must not contain whitespace'
+        description: 'Einzigartige Form unique identifier of the form, must not contain whitespace'
         required: true
       - type: string
         name: form_action
