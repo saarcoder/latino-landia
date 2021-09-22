@@ -436,7 +436,7 @@ models:
         description: Liste von Optionen für Auswahlfeld
       - type: boolean
         name: is_required
-        label: Ist  das Feld erforderlich?
+        label: Ist das Feld erforderlich?
         default: false
   stackbit_page_meta:
     type: object
