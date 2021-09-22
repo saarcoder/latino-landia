@@ -1,4 +1,4 @@
-# ✨ splendid-planet ✨
+# ✨ latino-landia ✨
 
 <img src="https://themes.stackbit.com/images/fjord-demo-1024x768.png" width="600">
 
