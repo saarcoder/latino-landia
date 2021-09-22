@@ -155,7 +155,7 @@ models:
           Der Titel auf der linken Seite, wenn kein Logo ausgewählt ist. Ist auch kein Titel angeben, wird der Name des Autors angezeigt.
       - type: string
         name: tagline
-        label: Header Tagline
+        label: Header-Tagline
         description: The tagline displayed on the left side
       - type: image
         name: logo_img
