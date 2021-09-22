@@ -62,3 +62,14 @@ Eröffnung: Donnerstag, 23. April 2020 um 20 Uhr. Abschlusstrunk am Sonntag, 26.
 Ort: ARRIVAL ROOM, Großherzog-Friedrich-Str. 95, 66111 Saarbrücken
 
 Eine Pop-Up-Ausstellung (Dauer: 72 Stunden) im „Arrival Room“ mit Unterstützung durch „LatinoLandia“ und „VESOMEKO“ (Verein zur Förderung der sozialen Medienkompetenz).
+
+Rahmenprogramm:
+Persönliche Führungen mit dem Künstler.
+Salsa-Kurs am Freitagabend.
+Lesung: „Geschichten aus Kolumbien“.
+Vortrag: „Sie kam ins Land und ging nicht mehr weg: 72 Jahre Gewalt in Kolumbien“
+Bewegungs-Workshop mit Rosaria Garcia Verissimo (Argentinien)
+
+Beschreibung: Bewegungs-Workshop mit Rosaria Garcia Verissimo (Argentinien)
+Während der 72 Stunden dauernden Ausstellung macht die argentinische Psychologin und Yoga-Lehrerin Rosaria Garcia Verissimo an einem Nachmittag ein Angebot für zwei Bewegungs-Workshops (Dauer jeweils 20-30 Minuten). Arbeitstitel: „Expresión Corporal libre“ („freier Körperausdruck“)
+Anhand von drei Bildern aus der Ausstellung werden die Bildkomposition, die Farbkomposition, der „Sound“ und die Botschaft des Bildes analysiert. Dann wird nach Anleitung der Dozentin der Versuch unternommen, die zwei Kulturkreise Deutschland (die Umgebung des Arrival Room) und Lateinamerika (Fotos aus Kolumbien) zu vereinen. Kann ein Bild tatsächlich „aus dem Rahmen fallen“ und sich auf einen menschlichen Körper übertragen? Können Bewegungen Farben ausdrücken? Kann Musik in einem Bild erscheinen?
