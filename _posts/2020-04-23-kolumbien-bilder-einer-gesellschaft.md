@@ -69,7 +69,6 @@ Eine Pop-Up-Ausstellung (Dauer: 72 Stunden) im „Arrival Room“ mit Unterstüt
 + Lesung: „Geschichten aus Kolumbien“.
 + Vortrag: „Sie kam ins Land und ging nicht mehr weg: 72 Jahre Gewalt in Kolumbien“
 + Bewegungs-Workshop mit Rosaria Garcia Verissimo (Argentinien)
-
 Beschreibung: Bewegungs-Workshop mit Rosaria Garcia Verissimo (Argentinien)
 
 Während der 72 Stunden dauernden Ausstellung macht die argentinische Psychologin und Yoga-Lehrerin Rosaria Garcia Verissimo an einem Nachmittag ein Angebot für zwei Bewegungs-Workshops (Dauer jeweils 20-30 Minuten). Arbeitstitel: „Expresión Corporal libre“ („freier Körperausdruck“)
