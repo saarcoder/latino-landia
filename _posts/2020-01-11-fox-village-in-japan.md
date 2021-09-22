@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fox Village In Japan
+      value: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
     - name: 'twitter:description'
       value: >-
         Apparently, Japan is covered in magical and irresistibly cute animal
