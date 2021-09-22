@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fox Village In Japan
+      value: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
       keyName: property
     - name: 'og:description'
       value: >-
