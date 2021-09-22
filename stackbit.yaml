@@ -104,27 +104,27 @@ sourceMapping:
 models:
   config:
     type: data
-    label: Site Configuration
+    label: Seiten-Konfiguration
     fields:
       - type: string
         name: title
-        label: Title
-        description: Site title
+        label: Titel
+        description: Seitentitel
         required: true
       - type: string
         name: domain
         label: Domain
         description: >-
-          The domain of your site, including the protocol, e.g.
-          https://mysite.com/
+          Die Internetadresse der Webseite, einschließlich des verwendeten Protokolls, z.B. 
+          https://meineseite.de/
       - type: image
         name: favicon
         label: Favicon
-        description: A square icon that represents your website
+        description: Ein quadratisches Icoen, das Deine Webseite repräsentiert
       - type: enum
         name: palette
-        label: Color Palette
-        description: The color palette of the theme
+        label: Farb-Palette
+        description: Die Farbpalette der Vorlage
         options:
           - yellow
           - blue
@@ -134,81 +134,81 @@ models:
         required: true
       - type: model
         name: header
-        label: Header Configuration
+        label: Header-Konfiguration
         models:
           - header
       - type: model
         name: footer
-        label: Footer Configuration
+        label: Footer-Konfiguration
         models:
           - footer
     file: config.json
   header:
     type: object
-    label: Header Configuration
+    label: Header-Konfiguration
     labelField: title
     fields:
       - type: string
         name: title
-        label: Header Title
+        label: Header-Titel
         description: >-
-          The title displayed on the left side if no logo image added. If value
-          is not set, the author name will be used.
+          Der Titel auf der linken Seite, wenn kein Logo ausgewählt ist. 
+          Ist auch kein Titel angeben, wird der Name des Autors angezeigt.
       - type: string
         name: tagline
-        label: Header Tagline
-        description: The tagline displayed on the left side
+        label: Header-Tagline
+        description: Die Tagline auf der linken Seite
       - type: image
         name: logo_img
         label: Logo
-        description: The logo image displayed on the left side
+        description: Das Logo auf der linken Seite
       - type: string
         name: logo_img_alt
         label: Logo Alt Text
-        description: The alt text of the logo image
+        description: Der Alternativtext des Logo-Bilds
       - type: image
         name: background_img
-        label: Background Image
-        description: The image displayed in the background of the left side
+        label: Hintergrundbild
+        description: Das Bild, das im Hintergrund auf der linken Seite angezeigt wird
       - type: boolean
         name: has_nav
-        label: Enable Navigation Menu
-        description: Display the navigation menu bar on the left side
+        label: Navigations-Menü aktivieren
+        description: Das Navigationsmenü auf der linken Seite anzeigen
         default: true
       - type: list
         name: nav_links
-        label: Navigation Links
-        description: List of navigation links
+        label: Navigations-Links
+        description: Liste von Navigationslinks
         items:
           type: model
           models:
             - action
       - type: boolean
         name: has_social
-        label: Enable Social Links
-        description: Display social links on the left side
+        label: Social Links aktivieren
+        description: Social Links auf der linken Seite anzeigen
         default: true
       - type: list
         name: social_links
         label: Social Links
-        description: List of social links
+        description: Liste von Social Links
         items:
           type: model
           models:
             - action
   footer:
     type: object
-    label: Footer Configuration
+    label: Footer-Konfiguration
     labelField: content
     fields:
       - type: string
         name: content
-        label: Footer Content
-        description: The copyright text displayed in the footer
+        label: Footer-Inhalt
+        description: Der Copyrighttext im Footer
       - type: list
         name: links
         label: Links
-        description: List of links in the footer
+        description: List von Links im Footer
         items:
           type: model
           models:
@@ -216,7 +216,7 @@ models:
   home:
     type: page
     urlPath: /
-    label: Home
+    label: Start
     layout: home
     file: index.md
     hideContent: true
@@ -224,17 +224,17 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the page
+        label: Titel
+        description: Der Titel der Seite
         required: true
       - type: boolean
         name: has_more_link
-        label: Show keep reading link
-        description: Display the keep reading link in the post feed
+        label: Link Weiterlesen anzeigen
+        description: Den Weiterlesen-Link im Beitragsfeed anzeigen
         default: true
       - type: string
         name: more_link_text
-        label: Keep reading link label
+        label: Label des Weiterlesen-Links
       - type: model
         name: seo
         models:
@@ -249,40 +249,40 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the page
+        label: Titel
+        description: Der Titel der Seite
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
-        description: The text shown just below the page title
+        label: Untertitel
+        description: Der Text direkt unterhalb des Seitentitels
       - type: image
         name: img_path
-        label: Background Image
+        label: Hintergrundbild
         description: >-
-          The background image of the left side. If no image added, the default
-          image specified in Header Configuration is displayed.
+          Das Hintergrundbild auf der linken Seite. 
+          Ohne Bild wird das Standardbild der Header-Konfiguration angezeigt.
       - type: string
         name: form_id
-        label: Form ID
-        description: 'A unique identifier of the form, must not contain whitespace'
+        label: Form-ID
+        description: 'Einzigartige Formular-ID, darf keine Leerzeichen enthalten'
         required: true
       - type: string
         name: form_action
-        label: Form Action
+        label: Formular-Aktion
         description: >-
-          The path of your custom "success" page, if you want to replace the
-          default success message
+          Pfad zur "Erfolgsseite", falls die Standard-Erfolgsmeldung 
+          geändert werden soll
       - type: list
         name: form_fields
-        label: Form Fields
+        label: Formular-Felder
         items:
           type: model
           models:
             - form_field
       - type: string
         name: submit_label
-        label: Submit Button Label
+        label: Label für den Versende-Button
         required: true
       - type: model
         name: seo
@@ -290,25 +290,25 @@ models:
           - stackbit_page_meta
   page:
     type: page
-    label: Page
+    label: Seite
     layout: page
     exclude: _posts/**
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the page
+        label: Titel
+        description: Der Titel der Seite
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
-        description: The text shown just below the page title
+        label: Untertitel
+        description: Der Text direkt unterhalb des Seitentitels
       - type: image
         name: img_path
-        label: Background Image
+        label: Hintergrundbild
         description: >-
-          The background image of the left side. If no image added, the default
-          image specified in Header Configuration is displayed.
+          Das Hintergrundbild auf der linken Seite. 
+          Ohne Bild wird das Standardbild der Header-Konfiguration gezeigt.
       - type: model
         name: seo
         models:
@@ -316,46 +316,45 @@ models:
   post:
     type: page
     urlPath: '/posts/{slug}'
-    label: Post
+    label: Beitrag
     layout: post
     folder: _posts
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the post
+        label: Titel
+        description: Der Titel des Beitrags
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
-        description: The text shown just below the post title
+        label: Untertitel
+        description: Der Text direkt unterhalb des Beitragstitels
       - type: date
         name: date
-        label: Date
+        label: Datum
         required: true
       - type: image
         name: thumb_img_path
-        label: Image (Blog Feed)
-        description: The image shown in the blog feed
+        label: Bild (Blog-Feed)
+        description: Das Bild, das im Blog-Feed angezeigt werden soll
       - type: string
         name: thumb_img_alt
-        label: Image Alt Text (Blog Feed)
-        description: The alt text of the blog feed image
+        label: Alt-Text (Blog-Feed)
+        description: Alternativtext des Blogfeed-Bilds für Screenreader
       - type: image
         name: content_img_path
-        label: Background Image (Single Post)
+        label: Hintergrundbild (einzelner Beitrag)
         description: >-
-          The background image of the left side in the single post. If no image
-          added, the default image specified in Header Configuration is
-          displayed.
+          Das Hintergrundbild auf der linken Seite eines Einzelbeitrags. 
+          Ohne Bild wird das Standardbild der Header-Konfiguration gezeigt.          
       - type: string
         name: excerpt
-        label: Excerpt
-        description: The excerpt of the post displayed in the blog feed
+        label: Auszug
+        description: Die Zusammenfassung des Einzelbeitrags im Blog-Feed
       - type: boolean
         name: hide_header
-        label: Hide sidebar
-        description: Hide the left side in the single post
+        label: Navigationsmenü verstecken
+        description: In einem Einzelbeitrag die linke Spalte verbergen.
         default: false
       - type: model
         name: seo
@@ -363,7 +362,7 @@ models:
           - stackbit_page_meta
   action:
     type: object
-    label: Action
+    label: Aktion
     labelField: label
     fields:
       - type: string
@@ -377,7 +376,7 @@ models:
         default: '#'
       - type: enum
         name: style
-        label: Style
+        label: Stil
         options:
           - link
           - icon
@@ -399,21 +398,21 @@ models:
           - youtube
       - type: boolean
         name: new_window
-        label: Open in new tab/window
+        label: In neuem Tab/Fenster öffnen
         default: false
       - type: boolean
         name: no_follow
         label: No follow
         default: false
-        description: Add rel="nofollow" attribute to the link
+        description: rel="nofollow"-Attribut zum Link hinzufügen
   form_field:
     type: object
-    label: Form Field
+    label: Formular-Feld
     labelField: name
     fields:
       - type: enum
         name: input_type
-        label: Type
+        label: Typ
         options:
           - text
           - email
@@ -422,47 +421,46 @@ models:
           - checkbox
           - textarea
           - select
-        description: Type of the form field
+        description: Art des Formularfelds
         required: true
       - type: string
         name: name
         label: Name
-        description: 'The name of the field, submitted with the form'
+        description: 'Der Name des Felds, übertragen mit dem Formular'
         required: true
       - type: string
         name: label
         label: Label
-        description: 'The caption of the field, shown above the field input'
+        description: 'Der Titel des Felds, angezeigt über dem Eingabefeld'
       - type: string
         name: default_value
         description: >-
-          The placeholder for textual field types or default option for select
-          field
+          Der Platzhalter für Feldtypen oder Standard-Optionen für Auswahlfelder
       - type: list
         name: options
-        description: The list of options for select field
+        description: Liste von Optionen für Auswahlfeld
       - type: boolean
         name: is_required
-        label: Is the field required?
+        label: Ist das Feld erforderlich?
         default: false
   stackbit_page_meta:
     type: object
-    label: Page meta data
+    label: Seiten-Metadaten
     fields:
       - type: string
         name: title
-        label: Title
-        description: The page title that goes into the <title> tag
+        label: Titel
+        description: Der Seitentitel im <title> Tag
         default: ''
       - type: string
         name: description
-        label: Description
-        description: The page description that goes into the <meta name="description"> tag
+        label: Beschreibung
+        description: Die Seiten-Beschreibung für den <meta name="description"> Tag
         default: ''
       - type: list
         name: robots
         label: Robots
-        description: The items that go into the <meta name="robots"> tag
+        description: Die Einträge für den <meta name="robots"> Tag
         items:
           type: enum
           options:
@@ -478,8 +476,8 @@ models:
         name: extra
         label: Extra
         description: >-
-          Additional definition for specific meta tags such as open-graph,
-          twitter, etc.
+          Zusätzliche Definition für besondere Metatags wie Open-Graph,
+          Twitter, usw.
         items:
           type: object
           labelField: name
