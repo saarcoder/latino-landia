@@ -156,7 +156,7 @@ models:
       - type: string
         name: tagline
         label: Header-Tagline
-        description: The tagline displayed on the left side
+        description: Die Tagline displayed on the left side
       - type: image
         name: logo_img
         label: Logo
