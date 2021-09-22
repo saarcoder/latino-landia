@@ -54,8 +54,6 @@ Am 9. April 1948 kam die Gewalt nach Kolumbien. Seitdem hat sie das Land nicht m
 
 Der Exil-Bremer Thomas Schulz arbeitet im Hauptberuf als Gewerkschaftssekretär beim Deutschen Gewerkschaftsbund, ist ehrenamtlicher Regionalsprecher von Attac Saar sowie Gründer des Lateinamerika-Zirkels, außerdem Vorstandsmitglied im „Weltveränderer e.V.“ und stellvertretender Vorsitzender des „VESOMEKO“ (Verein zur Förderung der sozialen Medienkompetenz . Früher war er hauptberuflich als freier Journalist und Pressefotograf in Kolumbien tätig, u.a. für die größte kolumbianische Tageszeitung „El Tiempo“, für „Deporte Gráfico“ und das Wirtschaftsblatt „Portafolio“. In der Ausstellung sind Bilder eines friedlichen, farbenfrohen Kolumbiens ohne Gewalt zu sehen.
 
-> The fox never found a better messenger than himself.
-
 As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan" target="_blank">Japan’s</a> traditional culture gradually weakened from 1945 on, individual Japanese began to exercise some personal choice in their private lives. But the newly mandated freedoms had a minimal effect on a number of key institutions.
 
 Japan’s educational, economical and political systems remained hidebound bulwarks of traditional behavior. The politically guided economic system in particular was able to generate enormous power that could be directed with the precision of a laser beam.
