@@ -2,20 +2,14 @@
 title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
 subtitle: Colombia – imágenes de una sociedad sin violencia
 excerpt: >-
-  Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein
-  weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland
-  ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der
-  Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik- und Atlantik) – und
-  wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
+  Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik- und Atlantik) – und wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
 date: '2020-04-23'
 thumb_img_path: images/DSCF2492_small_cpr.jpg
 thumb_img_alt: Mädchen mit buntem Kleid auf der Straße
 seo:
   title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
   description: >-
-    Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein
-    weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland
-    ist. 
+    Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. 
   extra:
     - name: 'og:type'
       value: article
@@ -25,9 +19,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein
-        weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie
-        Deutschland ist.
+        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist.
       keyName: property
     - name: 'og:image'
       value: images/DSCF2492_small_cpr.jpg
@@ -39,9 +31,7 @@ seo:
       value: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
     - name: 'twitter:description'
       value: >-
-        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein
-        weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie
-        Deutschland ist.
+        Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist.
     - name: 'twitter:image'
       value: images/DSCF2492_small_cpr.jpg
       relativeUrl: true
