@@ -225,7 +225,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: The title of the page
+        description: The Titel of the page
         required: true
       - type: boolean
         name: has_more_link
