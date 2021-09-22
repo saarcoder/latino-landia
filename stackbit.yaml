@@ -164,7 +164,7 @@ models:
       - type: string
         name: logo_img_alt
         label: Logo Alt Text
-        description: Der Alternativtesxt des Logobilds
+        description: Der Alternativtext des Logobilds
       - type: image
         name: background_img
         label: Background Image
