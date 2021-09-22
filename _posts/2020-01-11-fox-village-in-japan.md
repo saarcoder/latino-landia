@@ -1,8 +1,7 @@
 ---
 title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
 subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+  Colombia – imágenes de una sociedad sin violencia
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
