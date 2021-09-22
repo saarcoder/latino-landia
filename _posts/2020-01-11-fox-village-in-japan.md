@@ -1,5 +1,5 @@
 ---
-title: Fox Village
+title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
