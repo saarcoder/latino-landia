@@ -341,7 +341,7 @@ models:
         name: content_img_path
         label: Hintergrundbild (einzelner Beitrag)
         description: >-
-          The background image of the left side in the single post. If no image
+          THintergrundbild of the left side in the single post. If no image
           added, the default image specified in Header Configuration is
           displayed.
       - type: string
