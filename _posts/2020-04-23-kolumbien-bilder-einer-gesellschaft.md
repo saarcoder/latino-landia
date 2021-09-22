@@ -53,7 +53,7 @@ Doch dazu sollte es niemals kommen. Der Bogotázo, der mindestens tausend weiter
 
 > Der Fotograf:
 
-Der Exil-Bremer Thomas Schulz arbeitet im Hauptberuf als Gewerkschaftssekretär beim Deutschen Gewerkschaftsbund, ist ehrenamtlicher Regionalsprecher von Attac Saar sowie Gründer des Lateinamerika-Zirkels, außerdem Vorstandsmitglied im „Weltveränderer e.V.“ und stellvertretender Vorsitzender des „VESOMEKO“ (Verein zur Förderung der sozialen Medienkompetenz . Früher war er hauptberuflich als freier Journalist und Pressefotograf in Kolumbien tätig, u.a. für die größte kolumbianische Tageszeitung „El Tiempo“, für „Deporte Gráfico“ und das Wirtschaftsblatt „Portafolio“. In der Ausstellung sind Bilder eines friedlichen, farbenfrohen Kolumbiens ohne Gewalt zu sehen.
+Der Exil-Bremer Thomas Schulz arbeitet im Hauptberuf als Gewerkschaftssekretär beim Deutschen ewerkschaftsbund, ist ehrenamtlicher Regionalsprecher von Attac Saar sowie Gründer des Lateinamerika-Zirkels, außerdem Vorstandsmitglied im „Weltveränderer e.V.“ und stellvertretender Vorsitzender des „VESOMEKO“ (Verein zur Förderung der sozialen Medienkompetenz . Früher war er hauptberuflich als freier Journalist und Pressefotograf in Kolumbien tätig, u.a. für die größte kolumbianische Tageszeitung „El Tiempo“, für „Deporte Gráfico“ und das Wirtschaftsblatt „Portafolio“. In der Ausstellung sind Bilder eines friedlichen, farbenfrohen Kolumbiens ohne Gewalt zu sehen.
 
 As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan" target="_blank">Japan’s</a> traditional culture gradually weakened from 1945 on, individual Japanese began to exercise some personal choice in their private lives. But the newly mandated freedoms had a minimal effect on a number of key institutions.
 
