@@ -402,7 +402,7 @@ models:
         description: rel="nofollow"-Attribut zum Link hinzufügen
   form_field:
     type: object
-    label: Form Field
+    label: Formular-Feld
     labelField: name
     fields:
       - type: enum
