@@ -157,7 +157,7 @@ models:
         name: tagline
         label: Header-Tagline
         description: Die Tagline auf der linken Seite
-              - type: image
+      - type: image
         name: logo_img
         label: Logo
         description: The logo image displayed on the left side
