@@ -344,7 +344,7 @@ models:
           Das Hintergrundbild auf der linken Seite eines Einzelbeitrags. Ohne Bild wird das Standardbild der Header-Konfiguration gezeigt.          
       - type: string
         name: excerpt
-        label: Excerpt
+        label: Auszug
         description: The excerpt of the post displayed in the blog feed
       - type: boolean
         name: hide_header
