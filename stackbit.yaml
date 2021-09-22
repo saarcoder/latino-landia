@@ -339,7 +339,7 @@ models:
         description: Alt-Text des Blogfeed-Bilds
       - type: image
         name: content_img_path
-        label: Hintergrundbild (Single Post)
+        label: Hintergrundbild (einzelner Beitrag)
         description: >-
           The background image of the left side in the single post. If no image
           added, the default image specified in Header Configuration is
