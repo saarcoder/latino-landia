@@ -38,7 +38,7 @@ seo:
 layout: post
 content_img_path: images/00730008_small_cpr.jpeg
 ---
-![Straßenküche](images/Fdrei_small_cpr.jpg)
+![](images/Fdrei_small_cpr.jpg Straßenküche)
 
 Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. Kolumbien verfügt über verschiedene Klimazonen, zwei Inseln in der Karibik, 3200 Kilometer Küste an zwei Ozeanen (Pazifik- und Atlantik) – und wäre da nicht die allgegenwärtige Gewalt – dieses Land wäre ein Paradies.
 
