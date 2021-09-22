@@ -55,10 +55,3 @@ Doch dazu sollte es niemals kommen. Der Bogotázo, der mindestens tausend weiter
 
 Der Exil-Bremer Thomas Schulz arbeitet im Hauptberuf als Gewerkschaftssekretär beim Deutschen Gewerkschaftsbund, ist ehrenamtlicher Regionalsprecher von Attac Saar sowie Gründer des Lateinamerika-Zirkels, außerdem Vorstandsmitglied im „Weltveränderer e.V.“ und stellvertretender Vorsitzender des „VESOMEKO“ (Verein zur Förderung der sozialen Medienkompetenz . Früher war er hauptberuflich als freier Journalist und Pressefotograf in Kolumbien tätig, u.a. für die größte kolumbianische Tageszeitung „El Tiempo“, für „Deporte Gráfico“ und das Wirtschaftsblatt „Portafolio“. In der Ausstellung sind Bilder eines friedlichen, farbenfrohen Kolumbiens ohne Gewalt zu sehen.
 
- the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
-
-> The fox changes his fur but not his habits.
-
-The global distribution of foxes, together with their widespread reputation for cunning, has contributed to their prominence in popular culture and folklore in many societies around the world. The hunting of foxes with packs of hounds, long an established pursuit in Europe, especially in the British Isles, was exported by European settlers to various parts of the New World. { <a title="Fox" href="https://en.wikipedia.org/wiki/Fox" target="_blank">Source</a> }
-
-The interaction between Japanese and European art has been significant: for example ukiyo-e prints, which began to be exported in the 19th century in the movement known as Japonism, had a significant influence on the development of modern art in the West, most notably on post-Impressionism. Famous ukiyo-e artists include Hokusai and Hiroshige. The fusion of traditional woodblock printing and Western art led to the creation of manga, a comic book format that is now popular within and outside Japan. Manga-influenced animation for television and film is called anime. Japanese-made video game consoles have been popular since the 1980s. { <a title="Ise Grand Shrine" href="http://en.wikipedia.org/wiki/Ise_Grand_Shrine" target="_blank">Source</a> }
