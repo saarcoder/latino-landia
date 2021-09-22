@@ -150,7 +150,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Header-Titel
+        label: Menü-Titel
         description: >-
           Der Titel auf der linken Seite, wenn kein Logo ausgewählt ist. 
           Ist auch kein Titel angeben, wird der Name des Autors angezeigt.
