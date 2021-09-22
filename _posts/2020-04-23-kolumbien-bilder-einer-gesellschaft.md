@@ -13,7 +13,9 @@ thumb_img_alt: Mädchen mit buntem Kleid auf der Straße
 seo:
   title: Kolumbien – Bilder einer Gesellschaft ohne Gewalt
   description: >-
-    Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland ist. 
+    Mit seinen farbenfrohen Fotografien weckt Thomas Schulz Lust auf ein
+    weitgehend unbekanntes Land, dessen Fläche drei Mal so groß wie Deutschland
+    ist. 
   extra:
     - name: 'og:type'
       value: article
