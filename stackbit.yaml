@@ -445,7 +445,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: Der Seitentitel that goes into the <title> tag
+        description: Der Seitentitel im <title> tag
         default: ''
       - type: string
         name: description
