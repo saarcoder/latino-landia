@@ -335,7 +335,7 @@ models:
         description: Das Bild, das im Blog-Feed angezeigt werden soll
       - type: string
         name: thumb_img_alt
-        label: Image Alt Text (Blog Feed)
+        label: Alt-Text (Blog Feed)
         description: The alt text of the blog feed image
       - type: image
         name: content_img_path
